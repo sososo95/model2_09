@@ -22,8 +22,8 @@
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mybatis-spring-1.3.1"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/org.codehaus.jackson"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/org.codehaus.jackson.spring5"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/spring-framework-5.2.5.RELEASE"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/com.springsource.javax.servlet.jsp.jstl-1.1.2"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/javax.servlet.jsp.jstl-api-1.2.1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring-framework-5.2.5.RELEASE"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>

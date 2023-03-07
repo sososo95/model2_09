@@ -12,7 +12,7 @@ import com.model2.mvc.common.Search;
 import com.model2.mvc.service.PurchaseService;
 import com.model2.mvc.service.domain.Product;
 import com.model2.mvc.service.domain.Purchase;
-import com.model2.mvc.service.purchase.dao.PurchaseDAO;
+import com.model2.mvc.service.PurchaseDAO;
 
 @Service("purchaseServiceImpl")
 public class PurchaseServiceImpl implements PurchaseService {

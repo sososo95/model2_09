@@ -1,7 +1,6 @@
 package com.model2.mvc.service.purchase.impl;
 
 import java.util.List;
-import java.util.Map;
 
 import org.apache.ibatis.session.SqlSession;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -10,7 +9,7 @@ import org.springframework.stereotype.Service;
 
 import com.model2.mvc.common.Search;
 import com.model2.mvc.service.domain.Purchase;
-import com.model2.mvc.service.purchase.dao.PurchaseDAO;
+import com.model2.mvc.service.PurchaseDAO;
 
 @Service("purchaseDaoImpl")
 public class PurchaseDaoImpl implements PurchaseDAO {

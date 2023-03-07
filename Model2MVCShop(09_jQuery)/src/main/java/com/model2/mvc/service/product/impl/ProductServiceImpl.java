@@ -12,7 +12,7 @@ import com.model2.mvc.common.Search;
 import com.model2.mvc.service.ProductService;
 import com.model2.mvc.service.domain.Product;
 import com.model2.mvc.service.domain.User;
-import com.model2.mvc.service.product.dao.ProductDAO;
+import com.model2.mvc.service.ProductDAO;
 
 @Service("productServiceImpl")
 public class ProductServiceImpl implements ProductService {

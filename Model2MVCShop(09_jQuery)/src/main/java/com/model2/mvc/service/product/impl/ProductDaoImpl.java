@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
 import com.model2.mvc.common.Search;
 import com.model2.mvc.service.ProductService;
 import com.model2.mvc.service.domain.Product;
-import com.model2.mvc.service.product.dao.ProductDAO;
+import com.model2.mvc.service.ProductDAO;
 
 @Service("productDaoImpl")
 public class ProductDaoImpl implements ProductDAO {
